@@ -1,0 +1,3 @@
+This is the validation of AutoDock analysis results, which performs molecular docking analysis between the 3D drug molecular structure and the protein.
+In addition, we obtained immunohistochemistry results of the target protein in tumor tissues from male patients from the Human Protein Atlas database ([https://www.proteinatlas.org/](https://www.proteinatlas.org/)) to evaluate the potential value of candidate drugs.
+These results show that the binding energy between the drug molecule and the protein is less than −6, and the target protein is highly expressed in the tumor region, indicating that the drugs identified via Drug2Cell possess potential value.
